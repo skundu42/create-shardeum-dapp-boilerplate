@@ -1,0 +1,19 @@
+{
+  "name": "create-shardeum-dapp-boilerplate",
+  "version": "1.0.0",
+  "description": "Bootstrap shardeum dapp boilerplate",
+  "main": "index.js",
+  "bin": {
+    "create-shardeum-dapp-boilerplate": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandipankundu",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "commander": "^11.1.0",
+    "create-shardeum-app": "^1.0.1"
+  }
+}
